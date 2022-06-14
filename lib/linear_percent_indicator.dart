@@ -108,7 +108,7 @@ class LinearPercentIndicator extends StatefulWidget {
     this.addAutomaticKeepAlive = true,
     this.linearStrokeCap,
     this.barRadius,
-    this.padding = const EdgeInsets.symmetric(horizontal: 10.0),
+    this.padding = const EdgeInsets.symmetric(horizontal: 0.0),
     this.alignment = MainAxisAlignment.start,
     this.maskFilter,
     this.clipLinearGradient = false,
